@@ -1,0 +1,33 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd73611"
+    },
+    "name": "Onion",
+    "image": "pizza.png",
+    "price": "250",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2be12"
+    },
+    "name": "Farm",
+    "image": "pizza.png",
+    "price": "300",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2be13"
+    },
+    "name": "Chicken",
+    "image": "pizza.png",
+    "price": "200",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2be14"
+    },
+    "name": "All in One",
+    "image": "pizza.png",
+    "price": "500",
+    "size": "large"
+  }]
