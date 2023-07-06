@@ -25,7 +25,7 @@ This is a real-time pizza application built using Node.js, Express, and MongoDB.
 * Other libraries and dependencies: Please refer to the package.json file for a full list of dependencies.
 ## Installation
 #### Clone the repository:
-* git clone https://Tanu22srivastava//pizza-real-time.git
+* git clone https://github.com/Tanu22srivastava/pizza-real-time.git
 #### Navigate to the project directory:
 * cd real-time-pizza-application
 #### Install the dependencies:
