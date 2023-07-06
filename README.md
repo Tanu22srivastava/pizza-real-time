@@ -33,7 +33,7 @@ This is a real-time pizza application built using Node.js, Express, and MongoDB.
 * Set up the MongoDB database. Make sure you have MongoDB installed and running. Update the MongoDB connection details in the application's configuration file.
 
 #### Start the application:
-* npm start
+* npm run dev
 * Open your browser and visit http://localhost:3000 to access the application.
 
 ## Usage
