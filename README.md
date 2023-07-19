@@ -45,4 +45,4 @@ This is a real-time pizza application built using Node.js, Express, and MongoDB.
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request to the repository.
 
-## The payment option is not workinh now as Stripe is not working in India, the updated payment option will be updated soon.
+## The payment option is not working now as Stripe is not working in India, the updated payment option will be updated soon.
