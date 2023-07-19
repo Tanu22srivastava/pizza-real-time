@@ -2,7 +2,7 @@ import axios from 'axios'
 import Noty from 'noty'
 import { initAdmin } from './admin'
 import moment from 'moment'
-
+import { initStripe } from './stripe'
 
 
 
@@ -85,7 +85,7 @@ function updateStatus(order) {
 updateStatus(order);
 //initAdmin()
 
-//initStripe()
+initStripe()
 
 // Socket
 let socket = io()
@@ -113,3 +113,11 @@ socket.on('orderUpdated', (data) => {
         progressBar: false,
     }).show();
 })
+
+// Initialization for ES Users
+import {
+    Carousel,
+    initTE,
+  } from "tw-elements";
+  
+  initTE({ Carousel });
