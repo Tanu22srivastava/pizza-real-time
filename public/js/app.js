@@ -494,7 +494,7 @@ function _initStripe() {
       while (1) switch (_context2.prev = _context2.next) {
         case 0:
           _context2.next = 2;
-          return (0,_stripe_stripe_js__WEBPACK_IMPORTED_MODULE_0__.loadStripe)('pk_test_51NThXjSCp1FaplOA2MJTQot2jHtc6rN3aeXxNsPge6V7weE4JG5BGkfDQrmheUDfEM3kOsLUG8qtMlGO17hRm6ZO001vtWYBU8');
+          return (0,_stripe_stripe_js__WEBPACK_IMPORTED_MODULE_0__.loadStripe)('pk_test_51Hf6vbDfWW6uHRy7b6Upoa4bWhGYmk2ElEN4AiFeqozzlccU6OpAoD9d1oIar3qg9i8ASiOs9ly4rFJQOTPM5MMk00GN7COA2N');
         case 2:
           stripe = _context2.sent;
           card = null; // function mountWidget() {

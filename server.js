@@ -96,3 +96,20 @@ eventEmitter.on('orderUpdated', (data) => {
 eventEmitter.on('orderPlaced', (data) => {
   io.to('adminRoom').emit('orderPlaced', data)
 })
+// var instance = new Razorpay({
+//   key_id: 'rzp_test_kGQqQasUvj2gxR',
+//   key_secret: 'F8Y0tURDOeuuRxIizod9vPKg',
+// });
+
+// // const Razorpay = require('razorpay');
+// // var instance = new Razorpay({ key_id: 'YOUR_KEY_ID', key_secret: 'YOUR_SECRET' })
+
+// // var options = {
+// //   amount: req.body.amount,  // amount in the smallest currency unit
+// //   currency: "INR",
+// //   receipt: "order_rcptid_11"
+// // };
+// // instance.orders.create(options, function(err, order) {
+// //   console.log(order);
+// //   res.send({orderId:order_.id})
+// // });

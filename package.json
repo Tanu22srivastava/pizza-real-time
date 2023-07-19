@@ -29,6 +29,7 @@
     "noty": "^3.2.0-beta-deprecated",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
+    "razorpay": "^2.9.1",
     "sass": "^1.63.4",
     "socket.io": "^4.7.1",
     "stripe": "^12.13.0"
